@@ -1,0 +1,475 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lye is no scandal. Or a vindication of Mr. Mungo Craig, from a ridiculous calumny cast upon him by T. A. who was executed for apostacy at Edinburgh, the 8 of January, 1697.</title>
+            <author>Craig, Mungo.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02465</idno>
+            <idno type="STC">Wing C6799A</idno>
+            <idno type="STC">ESTC R174378</idno>
+            <idno type="EEBO-CITATION">51617698</idno>
+            <idno type="OCLC">ocm 51617698</idno>
+            <idno type="VID">175192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175192)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2719:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lye is no scandal. Or a vindication of Mr. Mungo Craig, from a ridiculous calumny cast upon him by T. A. who was executed for apostacy at Edinburgh, the 8 of January, 1697.</title>
+                  <author>Craig, Mungo.</author>
+               </titleStmt>
+               <extent>[2], 1-12, 15-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Written, January 15, 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous, despite discrepancy in pagination.</note>
+                  <note>T. A. = Thomas Aikenhead.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Craig, Mungo.</term>
+               <term>Aikenhead, Thomas, 1678?-1697.</term>
+               <term>Libel and slander --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175192:1"/>
+            <p>
+               <hi>A LYE</hi> is no <hi>SCANDAL.</hi>
+            </p>
+            <p>Or a VINDICATION OF <hi>Mr. MUNGO CRAIG,</hi> From a Ridiculous Calumny caſt upon him by <hi>T. A.</hi> who was Executed for APOSTACY At <hi>Edinburgh,</hi> the 8 of <hi>January,</hi> 1697.</p>
+            <q>
+               <bibl>Pſ. 26. v. 6.</bibl>
+               <p>I will waſh mine hands in Inno<g ref="char:EOLhyphen"/>cency ſo will I compaſs thine Alter O Lord.</p>
+            </q>
+            <q>
+               <bibl>Pſ. 31. v. 18.</bibl>
+               <p>Let the lying Lips be put to Si<g ref="char:EOLhyphen"/>lence: Which ſpeak grievous things proudly and Contemptuouſly againſt the Righteous.</p>
+            </q>
+            <q>
+               <bibl>Plaut: in Amphit.</bibl>
+               <p>— Qui non deliquit decet</p>
+            </q>
+            <q>
+               <p>Audacem eſſe, &amp; conſidenter proſe &amp; proterve loqui <hi>Nam</hi>
+               </p>
+               <bibl>Horat. Epod. 6.</bibl>
+            </q>
+            <q>
+               <l>— Si quis atro dente me petiverit,</l>
+               <l>inultus ut Flebo Puer?</l>
+            </q>
+            <p>Written, <hi>January</hi> 15, MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175192:2"/>
+            <pb n="1" facs="tcp:175192:2"/>
+            <head>A VINDICATION, Of Mr. MUNGO CRAIG, from a Ridiculous Calumny caſt upon him by <hi>T. A.</hi> lately Executed for <hi>Apoſtacy.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>
+                  <hi>Section I.</hi> Containing the Introduction, the Calumny, and ſome General Obſervations.</head>
+               <p>ALthough there be no Divine Truth which concerns our Eternal Felicity, more demonſtratively de<g ref="char:EOLhyphen"/>ducible from the Axioms of ſound Reaſon, more clearly holden forth in Scripture, or better countenanced by the experience of all Ages; than the being of a Providence, whereby every thing falls out according to <hi>the eternal purpoſe of him that worketh all things according to the Counſel of his own will. Eph,</hi> 1.11. This being the neceſſary reſult of his Glorious perfections, with reſpect to his end in Creating of the World. yet, there is no ſubject about which Men can employ their intellectu<g ref="char:EOLhyphen"/>al faculties wherein they will find their wit nonplus'd in a higher degree, than in the ſtupendious intricacies of this un<g ref="char:EOLhyphen"/>fathomable deepth; whoſe beauty and harmony, we can no more unridle in particular inſtances, than we can graſp the infinite underſtanding and free-will'd Councels of God, by the narrow limits of our shallow apprehenſions. which made the Holy Apoſtle exclaim in the ii, of the <hi>Rom.</hi> &amp; 38. <hi>v.</hi> 
+                  <q>O the deep of the Riches both of the Wiſdom and Know<g ref="char:EOLhyphen"/>ledge of God! How unſearchable are his Judgments and his ways paſt finding out.</q> Now, as the truth of both theſe poſitions, is aboundantly perſpicuous to any who is not altogether a ſtranger to the things of God: So, (con<g ref="char:EOLhyphen"/>ſidering the fewneſs of my dayes and shortneſs of my expe<g ref="char:EOLhyphen"/>rience)
+<pb n="2" facs="tcp:175192:3"/>it is evident to me in an eminent degree. The Lord having dealt with me in ſuch a manner, as I have often ſeen the thick Clouds of apparent ruine diſpell'd in a moment, and iſſue in my real Good. And upon the other hand, when my Spirits have been dejected, for the diſappointment of mine expectations, in that which I imagin'd wou'd be conducible to my well-being; a few dayes perſwaded me of the falſity of my Judgment, when I perceived that it would have ter<g ref="char:EOLhyphen"/>minated in my hurt either one way or other. And truly I cannot but ſay except I give my Conſcience the lie, that ever ſince I could make any conſiderable uſe of Reflexion and Memory; I have obſerved the Finger of God in every ſtep of my Life. So that I have learned to wait with pa<g ref="char:EOLhyphen"/>tience, on his meaning in any Emergency of his over ruling Power for the Future, hoping through his Grace to be found among theſe; <hi>whom he loveth and chaſtneth,</hi> and that <hi>when he hath tryed me</hi> I <hi>shall come forth as Gold, Job.</hi> 23, i0. But here, I muſt confeſs that the preſent and humbling diſ<g ref="char:EOLhyphen"/>penſation wherewith the Lord has been pleaſed to try me, for ends beſt known to his Holy Majeſty, is ſo odd, by rea<g ref="char:EOLhyphen"/>ſon of a ſtrangely ſurpriſing and ridiculous calumny caſt upon me by that poor Creature lately Executed for <hi>Apoſta<g ref="char:EOLhyphen"/>cy;</hi> that I am totally puzled how to behave under it but, <hi>Let me not be ashamed O Lord for I have called upon thee: Let the wicked be ashamed and let them be ſilent in the Grave, pſal,</hi> 3i, i7. I ſay it is ſtrangely ſurpriſing, firſt becauſe, (as I call the ſearcher of hearts to witneſs) it came to my ear as unexpectedly, as if I had ſeen the orderly Courſe of Nature; which God hath eſtablished in the Univerſe, turned in a mo<g ref="char:EOLhyphen"/>ment to Confuſion. 2ly. Becauſe it came from one who was to die, and pretended to reced from his former Prin<g ref="char:EOLhyphen"/>ciples. But more of this af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erwards. 3ly. Becauſe it has had reception among ſome who are real Chriſtians, but byaſſ'd by Miſinformation. Nevertheleſs, upon reflex thoughts my Admiration Ceaſed as to the two firſt points, when I conſidered the qualities of my Accuſer and had Read his Speech. And likewiſe as to the third, when I conſider<g ref="char:EOLhyphen"/>ed that it was only among ſuch as were unacquainted with me that it had reception; and that it is diſſeminated and ſo<g ref="char:EOLhyphen"/>mented only by a Graceleſs crew of profligat Perſons, who cannot endure to ſee vice crub'd without wheting their ma<g ref="char:EOLhyphen"/>licious
+<pb n="3" facs="tcp:175192:3"/>Tougues on ſuch as appear againſt it. I call it redi<g ref="char:EOLhyphen"/>culous and falſe, becauſe I'll shortly prove that it is ſo. And although <hi>I</hi> be perſwaded, both from my own experience, and from the method of the Lords Diſpenſations toward his People in the whole Canon of the Scripture, that it will ter<g ref="char:EOLhyphen"/>minate in my Advantage; yet ſeing that it is a publick Scandal to that Holy calling; whereunto out of his abound<g ref="char:EOLhyphen"/>ant Grace and Mercy, he hath been pleaſed to call me. Hav<g ref="char:EOLhyphen"/>ing an Eye ſolely to the Glory of God, and that I may not be a Stumbling Block to any weak Conſcience; I have thought it not only convenient, but my indiſpenſible duty to give a publick Teſtimony in my Vindication againſt it. For the re<g ref="char:EOLhyphen"/>gular performing of which, I shall firſt lay down his own words for a principal Copy of his Speech. And 2ly, I shall prove them to be falſe. And laſtly Anſwer ſome Calumnies that are commonly rumoured, whereof he makes no men<g ref="char:EOLhyphen"/>tion in his laſt Declaration. The words are thoſe,</p>
+               <p>AND I CANNOT WITHOUT DOING MY SELF A MANI<g ref="char:EOLhyphen"/>FEST INJURIE, BUT VINDICAT MY INNOCENCY FROM THESE ABOMINABLE ASPERSIONS, IN A PRINTED SATYRE OF Mr. M. C's WHO WAS AN EVI<g ref="char:EOLhyphen"/>DENCE AGAINST ME WHOM I LEAVE TO RECKON WITH GOD AND HIS OWN CONSCIENCE IF HE WAS NOT AS DEEP LY ENGAGED IN THESE HELLISH NOTIONS AS EVER 1 WAS.</p>
+               <p>Before I deſcend to the particular Anatomy of his Accuſa<g ref="char:EOLhyphen"/>tion, I muſt make two General Obſervations, how the won<g ref="char:EOLhyphen"/>derful providence of God had over rul'd his Malice in mak<g ref="char:EOLhyphen"/>ing his Calumny carry its own Refutation in the forehead of it. My firſt General Obſervation is. That one parr of the words is a manifeſt and undenyable contradiction of the other, for firſt he ſayes, that he is innocent from theſe abo<g ref="char:EOLhyphen"/>minable Aſperſions which I lay to his Charge; and yet he leaves me to reckon with God and my Conſcience, if I was not as deeply ingaged in them as he. Now, if he ſtand to the firſt that he is innocent, that I'm not guilty as the para<g ref="char:EOLhyphen"/>lel which he runs betwixt our engagements clearly demon<g ref="char:EOLhyphen"/>ſtrats, and ſo the laſt part of the Calumny falls to the ground. And if he ſtand to the ſecond, that I am guilty, then he is not Innocent, and conſequently the former clauſe muſt be falſe. Now, although I shall prove both the Clauſes of the Calum<g ref="char:EOLhyphen"/>ny to be falſe, yet it's clear that according to himſelf one of them muſt of neceſſity be ſo. This being as <hi>Logicians</hi> term
+<pb n="4" facs="tcp:175192:4"/>it <hi>Argumentatio ad hominem.</hi> Where I muſt extol the good<g ref="char:EOLhyphen"/>neſs of God, in that <q>when the wicked even mine Enemies and my Foes came upon me to eat up my Flesh, they ſtumbled and fell <bibl>
+                        <hi>Pſal.</hi> 27, 2.</bibl>
+                  </q> My ſecond g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neral Obſe vation is, that he doth not poſitively affect that <hi>I</hi> was as deeply engaged as he but leaves me to reckon with God and my Conſcience i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I was not ſo. As if he had ſaid, I have a Suſpicion <hi>For th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (a) that Mr. M. <hi>Craig</hi> was once ſo as I am, however, <hi>ground o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> be it ſo or not, I leave it to God and his conſcience, <hi>this ſuſpicr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> if they clear him I clear him. To which I ſub-<hi>on ſee</hi> Sect ſome but they have ſufficiently cleared me, and 3. <hi>Conſ.</hi> 8. will clear me in the day of general Judgment, be fore Men and Angels, <hi>Ergo</hi> (according to the moſt Genuin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſe that his words can admit of, conſidered with their Circumſtances) I am ſufficiently cleared. And although this Phraſe may be admitted for an affirmation in more tri<g ref="char:EOLhyphen"/>vial affairs, where there is no ground of Jealouſie, that the Perſon ſpeaking is either capable or willing to Sophiſticat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet, it is not ſo to be let paſs if we conſider <hi>Thomas Aitkinhead</hi>'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dexterity in that Art. Eſpecially, ſeing that from the ſe<g ref="char:EOLhyphen"/>quel of my diſcourſe <hi>(b.)</hi> I shall make it apparent, that he had a deſign to put a blur upon the World in't ei-Sect. 3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther through malice or miſtake. And now I appeal <hi>Con.</hi> 8. to any competent and unprejudic'd Perſon, if ever two pro<g ref="char:EOLhyphen"/>poſitions were more repugnant, or if ever the oracles of the Heathen <hi>Daemons</hi> were more equivocal. But admitti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all which I have obſerved to be null, yet I shall prove both the parts of his Calumny to be falſe in the two following Sections.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECTION II.</hi> In which the firſt part of the Calumny is demonſtrated to be falſe.</head>
+               <p>HIs poſition here is, that I did caſt abominable aſper<g ref="char:EOLhyphen"/>ſions on him in my Satyre of which he was innocent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I contradict it thus, I laid nothing to his Charge in that Satyre, of which he was not guilty. That I may prove my Aſſertion, obſerve 1, that all that I mention of him in that Pamphlet, may be devided into two parts 1, a relation of ſome ridiculous and airy Fancies in Philoſophy and Chime<g ref="char:EOLhyphen"/>ſtry, reduced into five heads. 1 Of the Chimaerical ver<g ref="char:EOLhyphen"/>tues or properties which he attributed to his <hi>Aurum potabil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <pb n="5" facs="tcp:175192:4"/>as he termed It. 2 Of his deſign of inventing a way to keep Commerce betwixt the Tereſtial Glob, and the World which he imagin'd to be in the Moon. 3 Of his new and ex<g ref="char:EOLhyphen"/>traordinary Way of making the Philoſopher Stone. 4 Of his rediculing the received and ſelf evident principles of Rea<g ref="char:EOLhyphen"/>ſon. 5. Of the Extravagant and Blaſphemous power Which he attributed to Man's Imagination. That all theſe and many other Wild Effects of unbridled and daring Ignorance, Were his common diſcourſe, almoſt every one who had any acquaintance of him can Teſtifie: I shall Inſtance ſome, <hi>viz.</hi> Mr <hi>Patrick Midleton</hi> Mr. <hi>Adam Mitchel</hi> Mr. <hi>Hugh Cravefaord</hi> Mr <hi>John Neilſon</hi> &amp;c. Moreover, that about Ima<g ref="char:EOLhyphen"/>gination was an Arucle of his Lybel and ſufficiently proven againſt him. The ſecond part, is a general Information of his Extravagancies in Divinity, without ſo much as naming any thing in particular; becauſe I looked upon it as little leſs than Blaſphemy to name them again, when not called thereunto, and that the Epithe s whereby I deſigned them there, were very congruous to the things lybelled againſt him, non that ever heard his Lybel can deny. Now, that he was guilty of theſe, I have no more to ſay, but that (after a due and punctual proceſs of Law, whereby every thing contained in his Lybel was ſufficiently proven, together with ſeveral Articles which were not Lybelled, by Witneſſes who heard them in different places, and at ſeveral occaſions, uttered by him, in the Spirit of Malice and Bitterneſs, with frequent Repetitions, without any Provocation, yea, con<g ref="char:EOLhyphen"/>trary to the found Admonitions of thoſe, who, with abho<g ref="char:EOLhyphen"/>rence, were his Auditors.) he was Capitally punished for them.</p>
+               <p>Obſerve, <hi>2ly.</hi> That it is to his Extravagancies in Divinity, that his Words have more ſpecial Reference, which I Col<g ref="char:EOLhyphen"/>lect from the two Epithets he gives them; viz. <hi>Abominable</hi> and <hi>Hellish,</hi> and likewiſe from the ſtrain of his Speech, Where he endeavours to Lenefie his Guilt, by attributing it to a love of Truth inherent in his Nature; tho non that e<g ref="char:EOLhyphen"/>ver heard him on theſe points could perceive that it flow'd from ſuch a Principle. And really I cannot ſee, how curſ<g ref="char:EOLhyphen"/>ing and railing againſt Holy and tremenduous miſteries, Which Man's Wit cannot Comprehend, can conſiſt with love of Truth, or how a high Conceit of a Man's own Wit
+<pb n="6" facs="tcp:175192:5"/>above all others, and a rejecting of all Inſtructions th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> could be given him, as if he were above the poſſibility <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> having further Light in the knowledge of things, can couſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> With the Character of a <hi>Philalaethes,</hi> And yet both theſe in the higheſt degree were his Properties.</p>
+               <p>Obſerve, <hi>3ly.</hi> That (as we may Collect from the for<g ref="char:EOLhyphen"/>mer obſervation) this doth not only Reflect upon me, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> likewiſe upon the reſt of the Witneſſes, who Teſtified th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he was guilty of ſuch abominable and Hellish Notions. Ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and upon the Wiſe and Grave Judges too, as if they eithe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had given ear to Calumnies, or, admittted incompetent Wit<g ref="char:EOLhyphen"/>neſſes againſt him; Whereas, never was a Proceſs mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> punctual, never a more unanimous conſent of Witneſſes, who heard them at different occaſions as we ſaid before, yea, of a great number of Witneſſes Who Were called to<g ref="char:EOLhyphen"/>gether, many were ſtrangers one to another.</p>
+               <p>Obſerve, <hi>4ly.</hi> That this Contradicts the former part o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſpeech, in which he declares, that ſince 10 or 11 Years o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Age, he was guilty of this Apoſtacy for which he ſuffered Theſe things being premiſ'd, I make the falshood of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poſition apparent thus; either his poſition or mine muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> falſe, the one being the contradiction of the other. But that mine is not falſe, is evident from the former Obſerva<g ref="char:EOLhyphen"/>tions. <hi>Ergo.</hi> His is falſe <hi>which was to be demonſtrated.</hi> And this in the opinion of any judicious Perſon, is ſuffici<g ref="char:EOLhyphen"/>ent to debilitat the Credit of the other part of his Calumny. For how is it to be thought, that a Man vvould ſtop to ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in ſo private a Buſineſs as my Reputation, vvho had the im<g ref="char:EOLhyphen"/>pudence, to call theſe things abominable Aſperſions or Ca<g ref="char:EOLhyphen"/>lumnies, that vvere ſo generally knovvn of him, and legally proven againſt him, I might here take notice, that he promiſes to vindicat his Innocence from theſe things, and yet does it not, for he ſays not a word more upon that point. And if by Vindication he mean only the bare aſſerting of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Innocence, (which indeed is a Notion of <hi>vindication</hi> not a white ſtrang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r than the Perſon that ſpoke it) then by the ſame Rule, the bare aſſerting of my Innocence from what he layes to my Charge, would be (by a Thouſand times) a more valid Vindication of me, becauſe ſuch a thing cou'd never be laid to my Charge by any Man.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="7" facs="tcp:175192:5"/>
+               <head>
+                  <hi>SECTION III.</hi> Wherein the ſecond part of the Calumny is demonſtrated to be falſe</head>
+               <p>THere is one previous conſideration I would offer to the Reader, before I proceed to this point. <hi>viz,</hi> That in proving the falſity of the other Clauſe, I had a great ad<g ref="char:EOLhyphen"/>vantage that I lake here, my proper ſtation in that being to Oppugn, but here the ſcene is changed, my Office properly being to defend my ſelf from any thing that he had to lay to my Charge, and his to prove it. But by his bare aſſerting of the thing &amp; that but ſeemingly too<note n="(a)" place="margin">
+                     <hi>Sect</hi> 1. <hi>Obſerve,</hi> 2.</note> without giving particular Inſtances, <hi>I</hi> am deprived of many eminent Topicks, from which <hi>I</hi> might have made his malice demonſtratively evident to the World. Notwithſtanding, in the ſtrength of the Lord, I shall lay down ſuch grounds for the contrary of his Aſſertion, taken in the ſtricteſt ſenſe that can be put upon it, that tho every one of them in it ſelf conſidered will not be a Demonſtration, yet, we may draw a concluſion from them collectively conſidered, not inferior to any evidence that a thing of that nature can admit of; which may ſerve for an Example that a Holy and Wiſe God will never leave oppreſſed innocence without a ſufficient ground of Vindi<g ref="char:EOLhyphen"/>cation. Then.</p>
+               <p>Conſider. 1 That I am neither a Stranger come from <hi>Ame<g ref="char:EOLhyphen"/>rica</hi> not any other remote place, but had both my Birth and Education in, and about the City of <hi>Edinburgh,</hi> and has had Converſe with People of ſeveral Ranks and Qualities, and I give a publick defyance to any one, or all of my Acquain<g ref="char:EOLhyphen"/>tances, if ever I ſpoke or Acted any thing, that tended that way either directly or indirectly. Yea, I Magnifie the Lord for it, that my Life and Converſation has been ſo void of Offence before God and Man. (I ſpeak not here of thoſe In<g ref="char:EOLhyphen"/>firmities which are the inſeparable adjuncts of corrupt hu<g ref="char:EOLhyphen"/>mane Nature; but of groſs Enormities in Principles or practi<g ref="char:EOLhyphen"/>ces) that the Rumor of this, was as Aſtonishing to any that had particular acquaintance of me, as to my ſelf, and is very far from having the leaſt Degree of their Credit.</p>
+               <p>Conſider <hi>2ly,</hi> That this Clauſe is both Ridiculous and Impoſſible. For I'm confident, that no Intelligent Perſon who over heard his Lybel can deny, that it is Ridiculous to
+<pb n="8" facs="tcp:175192:6"/>ſuppoſe any Rational Soul guilty of ſuch Horrid and Preſum<g ref="char:EOLhyphen"/>tuous Blaſpheniy; that is not either wholly debauched with grols immora<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty, or dround and miſted with ſelf conceit<g ref="char:EOLhyphen"/>ed Ignorance: And I defy any man to lay theſe to my Charge And Ah Chriſtians! who gives Ear to this ground<g ref="char:EOLhyphen"/>leſs Calumny, what for a Monſter conceive ye me to be were I guilty of any ſuch thing In painting out that Sin in ſuch black and diſmal Colours, as I did in that Satyr, in de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cing ſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Wo's againſt the guilty, and in Attribution to them ſuch He <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ish properties. Can it enter into your minds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Man cou'd ever ſcrew up his Soul to ſuch a hight of Hypocriſie, and shake from him ſo far the aw and d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d of a Supream being? As for my part I'm perſwaded that if it be not ſimply impoſſible 'tis the greateſt trouble i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the World, for men or theſe Principles to play the Hypocri<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> And now (whatever Miſconſtructions ſome may put upon it) I call God to Witneſs, that out of ſincere love to the everlaſting Goſpel, and diſdain to that miſtery of Iniquity, I threw in that Mire of Mine to the publick Treaſury. Nei<g ref="char:EOLhyphen"/>ther does any thing there delivered expreſs the Thouſand Degree of that <hi>Deteſtation</hi> which my Soul conceives againſt that Hellish <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>homination.</hi> 
+                  <q>Do not I hate them. O Lord that here Thee: And am not I grieved with thoſe that rif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> up againſt Thee? <hi>Pſ.</hi> 139 <hi>v</hi> 21,</q> I hate them with a perfect hatred: I count them mine Enemies. But miſtake me not, as if I endeavoutred from this, either to clear my ſelf, or to Extort your aſſent to my Innocence. But I obſerve it on<g ref="char:EOLhyphen"/>ly by the By as an an inſtance of Probability. I ſay alſo, that 'tis impoſſible, becauſe, although I had erred in my Judgment as to the Matters of Religion (as God forbid tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> either I had or should do it) yet I cou'd not be ſo guity a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he; in that I neither Rail'd againſt nor Scandaliz'd the Sub<g ref="char:EOLhyphen"/>lime and Sacred truths of Criſtianity, as he did.</p>
+               <p>Conſider <hi>3ly.</hi> that I was an avow'd Oppugner of him, &amp; en<g ref="char:EOLhyphen"/>deavoured diligently to extricat him from thoſe Souldeſtroy<g ref="char:EOLhyphen"/>ing P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nciples of which he was poſſeſſed. As Mr. <hi>Patrick Midl, top, Richard Comlie,</hi> and ſeveral others can Teſtifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon Oath.</p>
+               <p>Conſider <hi>4ly.</hi> That it was but ſmall and short acquaintance I had of him, as to particulars, being only from <hi>Feb.</hi> 1696; till <hi>April</hi> tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> year. And a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oon as I had diſcovered, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:175192:6"/>Latent treaſure of Corruption which was within him, and had perceiv'd, that all ordinary means of Recovery prov'd ineffectual; I wholly abandoned his Company, and ſep<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed from him only upon that Account. As is well known to the moſt part of my Acquain<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nces. From which date of <hi>April</hi> till he was Apprehended, I never ſaw him but twice or thrice.</p>
+               <p>Conſider <hi>5ly,</hi> that it was not I alone, that T. A. Not only. without all ground, but againſt all Reaſon; Slandered as guil<g ref="char:EOLhyphen"/>ty of his horrid Extravagancies. For I can prove that he was ſo Bewitched with his Hellish Deluſions, that he ordinarly ſaid; that all knowing Men were ſo, whatever they ſaid to the contrary, And Mr. <hi>Patrick Midlton</hi> Mr. <hi>John Neil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> and I can declare, that he boaſted how he had proſolytiz'd to his Apoſtacy a certain Miniſter of the Goſpel. How ridicul<g ref="char:EOLhyphen"/>ous this is let any man Judge.</p>
+               <p>Conſider <hi>6ly</hi> the qualities of my Accuſer, we are cer<g ref="char:EOLhyphen"/>tain and it was legally proven againſt him, that he was an Apoſtat from the Faith, a Blaſphemer of God, and a con<g ref="char:EOLhyphen"/>temner of the Sacred &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nduous Miſteries of our Holy Re<g ref="char:EOLhyphen"/>ligion. And the Spirit of God makes us Infallibly certain,<note n="(3)" place="margin">2 <hi>Tim</hi> 3. <hi>v,</hi> 3.</note> that ſuch should be falſe Acenſers (i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) and as we are certain of this, ſo we are uncertain whither he had the very firſt Decrees of ſolid Re<g ref="char:EOLhyphen"/>pentance. The Lord forbid that I should take upon me the Incommunicable attributes of God, and prentend to be a ſearcher of Hearts. But I ſay, we are very uncertain of it, if we conſider 1 That he gave but little ſatisfaction to tho Pious and Reverend Miniſters, who Labouted Induſtriouſly to Reclaim him. <hi>2ly.</hi> His laſt Speech is very unbecoming, a dying Man in his Circumſtances, being ſo far Stuff'd with the Affectation of a Bumbaſt and Airy S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le, which he was not able to Mannage; that he run himſelf inevitably to writ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what no Man can make ſouſe of, where we are entertain'd with much of Extravagant and Illogical Reeſoning, in or<g ref="char:EOLhyphen"/>der to ſelf Juſtification; but with nothing that Savours like a Soul Touched. with a Senſe of ſuch nefarious Blaſphemy as he was guilty of. For the danger of ſuch a Caſe, ſee <hi>Heb;</hi> 6; <hi>v,</hi> 4, 5 &amp; 6. And the 10 Chap, of that Epiſtle, and <hi>v,</hi> 26 29.</p>
+               <p>Conſider. <hi>7ly.</hi> The motives he had to Incenſe him againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, 1 be entertained a ſuſpicion, that I was the firſt that
+<pb n="10" facs="tcp:175192:7"/>diſcovered him to the Civil Magiſtrate; which although it was not true, yet ſeing he firmly believ'd it; it cou'd not but have great influence, to prompt a man of his Principles to Revenge. <hi>2ly,</hi> I had made his name publick in that Satyre. <hi>3ly</hi> He knew very well, that I wou'd prove an impartial Witneſs againſt him; now I can prove that he ſaid that his only Refuge lay in framing Objections, that might Incapacitat his Witneſſes to give evidence againſt him. And becauſe he cou'd lay nothing to my Charge; he endeavour<g ref="char:EOLhyphen"/>ed by this device, either to have my evidence rejected or at leaſt to put a ſtain upon my Name. <hi>But the hope of the wicked shall Perish.</hi>
+               </p>
+               <p>Conſider <hi>8ly.</hi> That he cou'd move no objection againſt me before the Lords of Juſticiary, that was of Force to in<g ref="char:EOLhyphen"/>capacitat me to bear Witneſs againſt him; for 'tis beyond all Contraverſie, that if he could but have raiſ'd a Suſpicion, in their Lordships that I was ſuch a Perſon; my evidence had been rejected. It being ſimply impoſſible to bind a man, to declare the verity upon an Oath, whoſe Tenor, in his Iudgment, was not Obligatory. Theſe things being duely conſidered, and counterpoiſ'd with the Calumny; in the Ballance of a ſound and impartial Judgment; the Slander will be found to have no proportion to my Counter Reaſons. But, for the more perſpicuity, I shall Rank up the degrees of its improbability, in the following Epiromy.</p>
+               <p>An Apoſtat from from the Faith<note n="a" place="margin">
+                     <hi>Sect.</hi> 3. <hi>Con.</hi> 6.</note> to whom faiſe Accuſation is an effential Property<note n="b." place="margin">2. <hi>Tim.</hi> 3.3.</note> of whoſe ſolid Repentance we are very uncertain;<note n="c." place="margin">
+                     <hi>Sect.</hi> 3. <hi>Con.</hi> 6.</note> from a habit of Slandering and Jealouſie<note n="d." place="margin">
+                     <hi>Con.</hi> 5</note> hath Ambiguouſly<note n="e." place="margin">
+                     <hi>Sect.</hi> 1. <hi>Obſ.</hi> 2</note> and Contradictoriouſly,<note n="f." place="margin">
+                     <hi>Obſ.</hi> 1.</note> either out of the Spirit of Malice and Revenge<note n="g." place="margin">
+                     <hi>Sect.</hi> 3. <hi>Con.</hi> 7.</note> or from miſtake:<note n="h." place="margin">
+                     <hi>Prop.</hi> 4.</note> Slandred one, who is not only of an unblamish'd Reputation,<note n="i." place="margin">
+                     <hi>Con.</hi> 1.</note> and given proof of his diſlike to theſe horrid Abominati<g ref="char:EOLhyphen"/>ons,<note n="k." place="margin">
+                     <hi>Co.</hi> 2.</note> but likewiſe endeavour'd to reduce him,<note n="l." place="margin">
+                     <hi>Co.</hi> 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and becauſe he could not prevail, ſepe<g ref="char:EOLhyphen"/>tated from him.<note n="m." place="margin">C. 4.</note> Yea one, againſt whom he cou'd bring no relevant Objection, when his very Life, in a manner, depended upon the the moving of it.<note n="n." place="margin">C. 8.</note>
+               </p>
+               <p>What degree of Credit ſuch a Report
+<pb n="11" facs="tcp:175192:7"/>shou'd receive, let every one judge <hi>pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arbitrio:</hi> Now me thinks, non can rationally deny, that his Calumny deſerves no inconſiderable Station among improbabilityes of the firſt magnitud. But that we may not reſt here, I shall likewiſe demonſtrate; that it is <hi>de facto</hi> Falſe. And that I may be methodical, I'l firſt lay down two obſervations. <hi>2ly.</hi> I'l propoſe and prove ſome propoſitions, in order to draw my Concluſion. My firſt Obſervation is his behaviour toward me, before the Lords of Juſticiary; when I was called to Witneſs againſt him. <hi>viz.</hi> When their Lordships enquired if he had any thing to object againſt me; he anſwered, that I should have ſaid to him, before one of the Witneſſes then preſent: that Dr. <hi>More</hi> was the firſt that convinc'd me of the truth of Chriſtianity. There Lordship, Replyed that it was no Objection in Law, and that I might bleſs God for my Converſion: But the the thing as he expreſt it, being Notoriouſly falſe, I deſir'd Permiſſion to ſpeak for my ſelf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but their Lordships thought it not neceſſary, becauſe the Objection was of no Conſequence. Their Lordships enqui<g ref="char:EOLhyphen"/>red, if he had any more to ſay, he aledged that I had Malice againſt him, becauſe <hi>I</hi> had mention'd his Name in that Pam<g ref="char:EOLhyphen"/>phelet. from which I was cleared by Oath. It being fur<g ref="char:EOLhyphen"/>ther enquired, if he had any more to Object againſt me; he anſwered, <hi>NO.</hi> My ſecond Obſervation is, a Succinct and real Narrative of the paſſage, on which he builded, his firſt and main Objection. And it is this. when Mr, <hi>Patrick Mid<g ref="char:EOLhyphen"/>leton</hi> and I went to ſee how he behaved in Priſon, we found upon the Table, <hi>Sir Charles Wolſley</hi>'s <hi>Diſcourſe on the reaſona<g ref="char:EOLhyphen"/>bleneſs of Scripture Beliefe.</hi> On which I took occaſion to ask, what ſatisfaction it had given him as to his doubts. But when by his conſtrain'd and ambiguous Anſwer. I underſtood that his ſatsfaction was little or none, I (having read the Book a<g ref="char:EOLhyphen"/>bout two Years before.) Magnified it for the moſt accom<g ref="char:EOLhyphen"/>plish'd diſcourſe that ever I ſaw on that Subject. and to in<g ref="char:EOLhyphen"/>force the Doctrine there delivered, home upon him (if the Influence of ſuch a ſlender Authority as mine, might have prevail'd any thing with him) I ſaid, that it had ſo great force upon my Judgment, that tho I had doubted never ſo Sceptically upon that point, (as I bleſs God, <hi>ſaid</hi> I, 'twas ne'r my Temptation.) Yet, I could not have any longer de<g ref="char:EOLhyphen"/>ny'd my Aſſent to the Verity and Divine Authority of the Sa<g ref="char:EOLhyphen"/>cred
+<pb n="12" facs="tcp:175192:8"/>Scriptures, I further added, that <hi>More, Crotius</hi> and others has laid down ſuch ſolid reaſons, for proving the Theory of the Chriſtian Religion, that no rational Soul that ever was at the Pains to weigh them duely, can miſs to be a Speculative Chriſtian. For, we muſt underſtand, that ſo<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grace and juſtifying Faith, (which are the neceſſary re<g ref="char:EOLhyphen"/>quiſits of a real Chriſtian.) being ſupernatural Donatives can neither be acquired by us, this or any other way. But they are the Gifts of God, infus'd into us and beſtowed upon u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from above; ſolely upon the ſcore of the infinit Merits of Jeſus Chriſt. From which Obſervations the Truth of theſe following propoſitions is aboundantly perſpicuous; upon which account, we shall be the breifer in their Illuſtrations.</p>
+               <p>Propoſition 1. <hi>He could ſay nothing to my Charge, but vvhat he la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to it before the Juſticiary Court.</hi> This is clear from his Anſwer to their Lordships laſt query, which was that he had no more to Obiect a<g ref="char:EOLhyphen"/>gainſt me: Compared with the 7 conſideration of this Section.</p>
+               <p>Prop<g ref="char:punc">▪</g> II. <hi>That even by his ovvn Expreſſion I, vvas froc'd from guil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> This is apparent from their Lordships Anſwer to his firſt and main Objection.</p>
+               <p>prop. III. <hi>What he ſaid hefore the Lords of Juſticiary, vvas vvholly grounded on that paſſage related in the</hi> 2. <hi>Obſervation.</hi> The truth of this appear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, from comparing of the two Obſervations together. But, 'tis put beyond all doubt, by his referring it to one of the Witneſſes then preſent for there was not a Witneſs then preſent, that ever was with me and him together; except Mr <hi>Midleton</hi> and another. Th' other can declare that he never heard us ſpeak any thing about Religion. And Mr. <hi>Midleton</hi> can depone thet he never heard me uſe any diſcourſe to that purpoſe but then.</p>
+               <p>Prop. IV. <hi>He vvildely vvreſted my vvords to a quite different ſenſe,</hi> This is evident from the Compariſon of the two Obſervations And from it we have this natural and undeniable Corrolary. <hi>That vvh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> he ſaid before the Lorde of Justiciary, vva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> either a LYE <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t of a deſign to frame ſomething like <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Objection, and ſtain my Reputation; gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſelf-defence and Revenge, Or at leaſt a MISTAKE.</hi> Which might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> occaſioned from his habitual uſe of wreſting Mens words<g ref="char:punc">▪</g> or from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inadvert<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncy when I ſpoke, for truly, he never much relish <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſcourſes of that nature.</p>
+               <p>Pro. V. <hi>What he ſays here, is either the ſame vvith vvhat he ſaid be<g ref="char:EOLhyphen"/>fore the Lords of Juiſtciary. or a LYE.</hi> This propoſition is a plain Cor<g ref="char:EOLhyphen"/>rolatly of the firſt, for, ſeing he had nothing to ſay but what he ſaid then this muſt either be the ſame or a <hi>Lye;</hi> ſeing I never ſaw <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nor ſpoke to him ſince. Moreover the particle WAS, is the
+<pb n="15" facs="tcp:175192:8"/>ſame with what he ſaid before the Lords of Juſticiary, <hi>viz.</hi> That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was convinced. And the Ambiguous Phraſe which henſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, (the Circumſtances duely conſidered) denots that he had either a deſign to Cheat the World by Sopheſtry; or at leaſt that he was not poſitive in what he ſaid. Hence I draw the following Concluſion</p>
+               <p>
+                  <hi>If vvhat he lays to my Charg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, be either a LYE or a MISTAKE, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> I'm free, But it is ſome of there tvvo.</hi> Ergo &amp;c. The Major Propoſi<g ref="char:EOLhyphen"/>tion, is incontraver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ible. And I prove the Minor thus; <hi>if vvhat he ſaid before the Lords of Jaſticiary vvas either a</hi> LYE <hi>or a MISTAKE And of thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>be either the ſame, or as ill; Then, this is</hi> LYE <hi>or a MISTAKE<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> he ſaid before the Lord of Juſticiary, vvas either a LYE <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a MISTAKE; A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d vvhat he ſays, here is ei<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> the ſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>r <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill. Ergo-vvhat he ſays <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is either a LYE or a MISTAKE.</hi> Q. E. D.</p>
+               <p>The Connexion of the Major propoſition, is founded upon that Axiom <hi>qua e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dam ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um tettio, ſan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> int<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſe.</hi> The firſt part of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inor is grounded on the Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olary to the 4 propoſition; and the laſt part of it on ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9 propoſition. Now M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinks that I perform<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> what I promiſed, in proving the Calumay, not only highty im<g ref="char:EOLhyphen"/>probable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> likewiſe, <hi>de facto</hi> falſe.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT IV.</hi> Containing the Concluſion.</head>
+               <p>Having conſtricted my ſelf, to ſuch narrow Limits; in R<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ting What T. A. really ſaids jt wou'd be both a Foolish and Impoſſible <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>terpriſe to endeavour to anſwer every frivolous Calumny of lying Fame. When one lover of <hi>Sla<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>,</hi> may b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rch more Lyes in an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our; than all the World can refute in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Age. Wherefore, I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brief and General in this part as I can. Some ſay that I was the firſt who Inffill'd theſe principles in hin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Others aſſeit that I le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him Athieſtical Books, with in numerable ſuch frivolous ſtories. The firſt of theſe he refutes in his Speech, where he Declares that ſince 10 or 11 years of age he vvas or theſe Principles Whereas I never ſaw him ſo much as by the Face till he was 17. And had not the opportunity to diſcover his corrupt qualities till about the end of <hi>March</hi> 1696. And as for the other objecti<g ref="char:EOLhyphen"/>on or any ſuch like, I anſwer that if any can prove them legally againſt me; I am willing, to ſuffer condign pu<g ref="char:EOLhyphen"/>nishment for them. To which I add that if ever I made A<g ref="char:EOLhyphen"/>thieſtical Book either my own Study, or lent them to others. If ever I was inſtrumental in perverting any, from the Chriſtian Faith If ever I entertain'd a diſlike to the ſame, or if ever I knew any that were of Athieſtical and irreligious principies, except T. A. then let the Almighty powr down upon me all the furious darts of his Fiery Indignation both Temporal and Eternal. And would to God, that I were as certain of a Saving Faith to lay hold upon the merits of my Saviour; as I am and ever was perſwa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, of the truth
+<pb n="16" facs="tcp:175192:9"/>of the Chriſtian Reform'd Religion as its holden forth in the Holy Scriptures. From on jot of which, before I receded (if the Lord would affoord me Strength equal to the Abſolute de<g ref="char:EOLhyphen"/>termination of my Mind.) I wou'd willingly endure any Mi<g ref="char:EOLhyphen"/>ſery, that can be inflicted on Body and Soul; except a Tot<g ref="char:EOLhyphen"/>al ſeparation from the Glorious preſence of God; which is ſo inſeparably connected with the great end of our Creation and Aticles of the Covenant of Grace, that non can chufe the one and reject the other. And what God hath joyn'd let no man put Aſlunder.</p>
+               <p>But it may be Objected. <hi>Is it not a ſtrange thing, that a man should go to Death with ſuch a Lye in his Mouth?</hi> I Anſwer that it would be a ſtranger thing, if a groundleſs Surmiſe upon the bare words of ſuch a Perſon as he was shou'd be of Force to invalidat clear evidence; backed with the Execra<g ref="char:EOLhyphen"/>tions and Proteſtations of one, who can defy the World to lay any Scandalous Enormity to his Charge. More<g ref="char:EOLhyphen"/>over, I cou'd clearly evince that this is not the only Lye in his last Speech, but ſeing I love to hector no man e<g ref="char:EOLhyphen"/>ſpecially the Dead; except where Neceſſity impels me to it I forbear it. desiring Earneſtly that Chriſtians wou'd <hi>Judge nothing before the time, untill the Lord come, vvho both vvil bring to Light, the hidden things of Darkneſs, and vvill manifeſt the Councels of the Hearts: And then shall every man have praiſe of God.</hi> 1 Cor. 4 &amp; 5. <hi>Novv, be Merciful to me O God for</hi> Man <hi>vvoud ſvvallovv me up,</hi> &amp;c. Pſal, 56, <hi>v.</hi> 1. <hi>Every day they Wreſt my vvords: All their thoughts are againſt me for evil. v.</hi> 5 <hi>But in God have I put my Truſt:</hi> I <hi>vvill not be afraid vvhat man can do unto me, v.</hi> 1 1.—<hi>Thou haſt dellivered my Soul from death Wilt not thou deliver my Feet from falling? that I may vvalk before God in the Light of the Living.</hi>
+               </p>
+               <pb facs="tcp:175192:9"/>
+            </div>
+            <closer>
+               <signed>MUNGO CRAIG.</signed>
+               <dateline>
+                  <date>
+                     <hi>January</hi> the 15. 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
